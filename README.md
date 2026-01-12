@@ -10,16 +10,20 @@ The service is provided “as is” without warranties of any kind. Availability
 
 **Contact:** grmjfin0000@gmail.com
 
-<a href=https://buy.stripe.com/eVqcN5cas4SebHjf5t3ZK00 target="_blank">
+<a href="https://buy.stripe.com/eVqcN5cas4SebHjf5t3ZK00"
+   target="_blank"
+   style="text-decoration:none;">
   <button style="
-    background-color:#635bff;
-    color:white;
-    padding:12px 22px;
-    font-size:16px;
+    background:#635bff;
+    color:#ffffff;
+    padding:14px 28px;
+    font-size:17px;
+    font-weight:600;
+    border-radius:8px;
     border:none;
-    border-radius:6px;
     cursor:pointer;
+    box-shadow:0 4px 10px rgba(99,91,255,0.3);
   ">
-    💳 Pay with Stripe
+    🚀 SUBSCRIBE TO SERVER HERE
   </button>
 </a>
