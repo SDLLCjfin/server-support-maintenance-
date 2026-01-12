@@ -27,3 +27,7 @@ The service is provided “as is” without warranties of any kind. Availability
     🚀 SUBSCRIBE TO SERVER HERE
   </button>
 </a>
+
+
+
+instructions on how to access server will be sent to you within 12 hours after payment. please be sure your email is correct.
