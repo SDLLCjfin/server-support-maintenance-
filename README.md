@@ -6,7 +6,7 @@ This page collects payments to cover server costs and technical maintenance for 
 Payments are for server hosting, upkeep/maintenance, and support only.
 
 Disclaimer:
-The service is provided “as is” without warranties of any kind. Availability, performance, and content may change at any tim
+The service is provided “as is” without warranties of any kind. Availability, performance, and content may change at any time.
 
 **Contact:** grmjfin0000@gmail.com
 
